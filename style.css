@@ -1,0 +1,35 @@
+
+Header {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+header nav {
+    letter-spacing: 0.2rem;
+    padding: 5px 10px !important;
+}
+
+header nav #logo {
+    font-size: 1rem;
+}
+
+#hero-section {
+    background-image: url("./images/panel.jpeg");
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#br-word {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#hero-section {
+    font-size: 50px;
+}
+
+#about-section {
+    filter: grayscale(0.7);
+}
